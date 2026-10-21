@@ -12,3 +12,8 @@ SUCCESS
 FAIL    # 100% hogy hibás a kilövés az 1. torpedóból
 SUCCESS
 FAIL
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
