@@ -1,0 +1,14 @@
+SUCCESS 
+FAIL
+SUCCESS 
+SUCCESS # All 1 torpedóval, 1 sikerül, ezért nem fail
+SUCCESS 
+SUCCESS 
+SUCCESS 
+SUCCESS 
+SUCCESS 
+SUCCESS 
+SUCCESS
+FAIL    # 100% hogy hibás a kilövés az 1. torpedóból
+SUCCESS
+FAIL
